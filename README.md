@@ -212,18 +212,13 @@ Here is a consolidated overview of the tools, frameworks, and environments I hav
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-  ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=python&logoColor=white)
   ![InfinityFree](https://img.shields.io/badge/InfinityFree-005A9C?style=flat-square&logo=server&logoColor=white)
-  ![HostAfrik](https://img.shields.io/badge/HostAfrik-005A9C?style=flat-square&logo=server&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 * **Services & APIs:** 
   ![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
   ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-  ![Paystack](https://img.shields.io/badge/Paystack-09A5DB?style=flat-square&logo=paystack&logoColor=white)
-  ![Hubtel](https://img.shields.io/badge/Hubtel-000000?style=flat-square&logo=hubtel&logoColor=white)
-  ![ExpressPay](https://img.shields.io/badge/ExpressPay-000000?style=flat-square&logo=creditcard&logoColor=white)
 * **Tools:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
