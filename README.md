@@ -67,8 +67,10 @@ Here are some of the key projects I have worked on to learn and apply new concep
 
 * **SokoAerialTelegramBot**
   * An intelligent, AI-powered Telegram chatbot built with Node.js and TypeScript. It integrates Cloudflare Workers AI with a custom business knowledge base to deliver accurate responses.
+  * [Telegram Bot](https://t.me/sokoaerialbot)
 * **Vendora**
   * A society-focused marketplace platform where vendors can create online stores, manage their products, and share custom storefronts. Features include vendor subscriptions, administrative systems, vendor dashboards, notification features, and AI-assisted tools.
+  * [Live Demo](https://campuscart.shop)
 * **Cyber News Threat Monitor & General News**
   * A cybersecurity-focused application for monitoring cyber news, threat intelligence, and general news updates. It utilizes a modern React and TypeScript frontend connected to dedicated backend services.
   * [Live Demo](https://cybermonitorgha.vercel.app)
@@ -82,6 +84,7 @@ Here are some of the key projects I have worked on to learn and apply new concep
   * A custom, TypeScript-based spreadsheet engine. It handles formula parsing, expression evaluation, cell dependency graphs, range resolution, and recalculations.
 * **Online Examination System**
   * A web-based examination platform containing administrative management dashboards and student-facing test interfaces, built with web technologies and a database backend.
+  * [Exam Suite](https://examsuite.great-site.net)
 * **Network Routing Simulator**
   * A networking simulation tool that models routers, connections, and paths to simulate network routing protocols and latency between nodes.
 * **KingScript**
@@ -122,4 +125,4 @@ I believe that learning is a continuous process. Right now, I am actively explor
 If you'd like to chat about tech, collaborate on a project, or just say hello, feel free to reach out!
 
 - **GitHub:** [github.com/kingsleyweb-tech](https://github.com/kingsleyweb-tech)
-- **Email:** [kingsleyweb.tech@gmail.com](mailto:kingsleyweb.tech@gmail.com) _(Placeholder - replace with your preferred email)_
+- **Email:** [kingsleyanaab604@gmail.com](mailto:kingsleyanaab604@gmail.com) _(Placeholder - replace with your preferred email)_
